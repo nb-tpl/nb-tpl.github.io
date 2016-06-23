@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tipertan.win/tags/index.html</loc>
+    
+    <lastmod>2016-06-23T06:12:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tipertan.win/2016/06/02/hexo-createAndUse/</loc>
     
     <lastmod>2016-06-23T02:40:36.000Z</lastmod>
